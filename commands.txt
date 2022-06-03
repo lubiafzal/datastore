@@ -9,3 +9,7 @@ iam 3
 
 pushed to remote repository
 then you can make changes to text document
+
+def add numbers(num1,num2):
+return num1+num2
+print numbers
