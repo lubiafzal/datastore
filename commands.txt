@@ -6,3 +6,6 @@ name
 hello world
 ayana
 iam 3
+
+pushed to remote repository
+then you can make changes to text document
